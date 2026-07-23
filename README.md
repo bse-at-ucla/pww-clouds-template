@@ -1,3 +1,5 @@
+![Screenshot](https://myimgs.org/storage/images/22572/Screenshot%202026-07-23%20at%204.png)
+
 # Club Member Portfolio Template
 
 A personal portfolio website template for club members, built with Next.js. Fork it, fill in your info, and deploy.

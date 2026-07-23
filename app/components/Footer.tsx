@@ -42,7 +42,16 @@ export function Footer() {
 
         <div className="footer-bottom">
           <p className="footer-copyright">
-            &copy; {YEAR} {PERSON.fullName}. Built with Next.js.
+            &copy; {YEAR} {PERSON.fullName}. Designed by{' '}
+            <a
+              href="https://bseatucla.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="footer-link"
+            >
+              Bruin Software Engineers
+            </a>
+            .
           </p>
         </div>
       </div>
